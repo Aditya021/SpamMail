@@ -1,7 +1,8 @@
 # SpamMail
 SpamMail 
 
-<li><h2>Installer</h2><hr>
+
+<u><h2>Installer</h2><hr>
 <li>$ pkg update 
   <li>$ pkg upgrade
     <li>$ pkg install git
